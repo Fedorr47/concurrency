@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.29209.62
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Concurency", "Concurency.vcxproj", "{633520C5-6FF5-40E5-ABDE-817881B7A77B}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Concurency_tests", "..\Concurency_tests\Concurency_tests.vcxproj", "{BF501E9D-1747-407F-A3B9-15387DB7B7CB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{633520C5-6FF5-40E5-ABDE-817881B7A77B}.Release|x64.Build.0 = Release|x64
 		{633520C5-6FF5-40E5-ABDE-817881B7A77B}.Release|x86.ActiveCfg = Release|Win32
 		{633520C5-6FF5-40E5-ABDE-817881B7A77B}.Release|x86.Build.0 = Release|Win32
+		{BF501E9D-1747-407F-A3B9-15387DB7B7CB}.Debug|x64.ActiveCfg = Debug|x64
+		{BF501E9D-1747-407F-A3B9-15387DB7B7CB}.Debug|x64.Build.0 = Debug|x64
+		{BF501E9D-1747-407F-A3B9-15387DB7B7CB}.Debug|x86.ActiveCfg = Debug|Win32
+		{BF501E9D-1747-407F-A3B9-15387DB7B7CB}.Debug|x86.Build.0 = Debug|Win32
+		{BF501E9D-1747-407F-A3B9-15387DB7B7CB}.Release|x64.ActiveCfg = Release|x64
+		{BF501E9D-1747-407F-A3B9-15387DB7B7CB}.Release|x64.Build.0 = Release|x64
+		{BF501E9D-1747-407F-A3B9-15387DB7B7CB}.Release|x86.ActiveCfg = Release|Win32
+		{BF501E9D-1747-407F-A3B9-15387DB7B7CB}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
